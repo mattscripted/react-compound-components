@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.menu {
+  box-shadow: 0 4px 8px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #d0d0d0;
+  background: #ffffff;
+  max-width: 200px;
+  padding: 16px;
+  list-style-type: none;
+}
+
+.menu__sub-menu {
+  font-weight: bold;
+}
+
+.menu__sub-menu-list {
+  list-style-type: none;
+  padding: 8px 0 0 8px;
+  font-weight: normal;
+}
+
+.menu__item {
+  line-height: 24px;
+}
+
+.menu__separator {
+  border-top: 1px solid #d0d0d0;
+  margin: 12px 0;
+}
