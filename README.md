@@ -1,4 +1,4 @@
-# react-compound-components
+# Use compound components in React
 
 In React, we can group related components into a compound component.
 
